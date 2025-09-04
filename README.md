@@ -20,3 +20,4 @@ This repository contains the design and technical documentation for our electric
 * **[Battery Types Selection](https://drive.google.com/file/d/14nY4y963VMJPMkg1Xg0vx88bvZXCy8Qu/view?usp=sharing)**: A guide to selecting different battery types for an electric vehicle.
 * **[Power Converters in EV](https://drive.google.com/file/d/1TQxQCx1lEgrfi0vEm_slfBXXRO8-8LRi/view?usp=sharing)**: An overview of various power converters used in electric vehicles.
 * **[EV Technology & Issues](https://drive.google.com/file/d/1W3gATMqDPpit1PklCZKREKAWN9qtV6Cu/view?usp=sharing)**: A document covering EV technology and its common real-time issues.
+* [cite_start]**[Power Converters in EV ](https://drive.google.com/file/d/19wR7mQSK8L3tqx2CMRua2sdJnK85ViT1/view?usp=sharing)**: A presentation on power converters and their use in electric and hybrid vehicles[cite: 1].
