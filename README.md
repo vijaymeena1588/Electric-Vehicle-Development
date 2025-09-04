@@ -9,4 +9,4 @@ This repository contains the design and technical documentation for our electric
 
 * **[6kW Powertrain Design](https://drive.google.com/file/d/1b1ryDLYATgMCAIlrbPYALgldkPN6Zdds/view?usp=drive_link)**: Detailed specifications and design of the 6kW powertrain system.
 * **[E-Car Design Presentation](https://drive.google.com/file/d/11SMBxYCf9NnG3Kh6d-ExRS-LX6UpqnYI/view?usp=drive_link)**: A presentation outlining the overall design and features of the electric car.
-* **[Electrical System Schematic](https://drive.google.com/file/d/1zml2vpiwrg-Y6kvlTrf0mhm_gg1a0G-X/view?usp=drive_link)**: A document detailing the electrical system components and layout.
+* **[Electrical System Sheet](https://drive.google.com/file/d/1zml2vpiwrg-Y6kvlTrf0mhm_gg1a0G-X/view?usp=drive_link)**: A document detailing the electrical system components and layout.
