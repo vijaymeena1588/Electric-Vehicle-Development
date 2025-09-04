@@ -18,6 +18,6 @@ This repository contains the design and technical documentation for our electric
 * **[BMS Parameters](https://drive.google.com/file/d/1pbLO2aN3F2HpmVt6fkEAqnLQnzR0D7bM/view?usp=sharing)**: A document detailing the key parameters for the Battery Management System.
 * **[BMS Questions](https://drive.google.com/file/d/1stK9rOgAT9YHHEjYN5imYGh_jjbU_QyM/view?usp=sharing)**: A collection of questions and answers related to BMS design and functionality.
 * **[Battery Types Selection](https://drive.google.com/file/d/14nY4y963VMJPMkg1Xg0vx88bvZXCy8Qu/view?usp=sharing)**: A guide to selecting different battery types for an electric vehicle.
-* **[Power Converters in EV](https://drive.google.com/file/d/1TQxQCx1lEgrfi0vEm_slfBXXRO8-8LRi/view?usp=sharing)**: An overview of various power converters used in electric vehicles.
+* **[Power-Train And Working](https://drive.google.com/file/d/1TQxQCx1lEgrfi0vEm_slfBXXRO8-8LRi/view?usp=sharing)**: An overview of various power converters used in electric vehicles.
 * **[EV Technology & Issues](https://drive.google.com/file/d/1W3gATMqDPpit1PklCZKREKAWN9qtV6Cu/view?usp=sharing)**: A document covering EV technology and its common real-time issues.
-* [cite_start]**[Power Converters in EV ](https://drive.google.com/file/d/19wR7mQSK8L3tqx2CMRua2sdJnK85ViT1/view?usp=sharing)**: A presentation on power converters and their use in electric and hybrid vehicles[cite: 1].
+* **[Power Converters in EV ](https://drive.google.com/file/d/19wR7mQSK8L3tqx2CMRua2sdJnK85ViT1/view?usp=sharing)**: A presentation on power converters and their use in electric and hybrid vehicles.
